@@ -1,1 +1,2 @@
 Testando o Git.
+Adicionado uma nova linha
